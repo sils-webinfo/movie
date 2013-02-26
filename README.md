@@ -11,6 +11,7 @@
 - The list of possible queries
 
 ##ID attribute values##
+-*movie* Applied to DIV tag. The list of movies in this representation.
 ##Class attribute values##
 ##Name attribute values##
 ##Rel attribute values##
