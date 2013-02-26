@@ -33,7 +33,7 @@
 - *country-movies*- Applied to a UL tag. A list of moives which come from a specific country.
 - *language-movies*- Applied to a UL tag. A list of moives which use a specific language.
 - *single-movie*- Applied to a UL tag. A representation of a single message. This element is a descendant of DIV.id="movies". 
-- *movie-content*Applied to a LI tag. This element is a descendant of UL.class="single-movie". It contains descendant elements like SPAN.class="movie-name" which give some descriptions.  
+- *movie-content*- Applied to a LI tag. This element is a descendant of UL.class="single-movie". It contains descendant elements like SPAN.class="movie-name" which give some descriptions.  
 - *movie-video*- Applied to a FORM tag. A representation of a movie`s video.
 - *movie-name*- Applied to a SPAN tag. This gives the name of a movie.
 - *movie-actors*- Applied to a SPAN tag. This gives the actors of the movie.
