@@ -1,14 +1,16 @@
 #movie#
 
 ##movie resources##
-'- The list of movies ordered alphabetically by their names
+'
+- The list of movies ordered alphabetically by their names
 - The list of actors appeared in the movies
 - The list of genres
 - The list of directors
 - The list of countries
 - The list of languages
 - A single movie
-- A list of movies that match some search criteria.'
+- A list of movies that match some search criteria.
+'
 
 ##ID attribute values##
 - *movies*- Applied to a DIV tag. The list of movies in this representation. This list may contian only one movie.
