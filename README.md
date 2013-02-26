@@ -52,14 +52,19 @@
 
 ##Rel attribute values##
 
-- *movie*- Applied to an A tag. A reference to a movie representation.
-- *actor*- Applied to an A tag. A reference to a list representation of all the movies which are acted by the actor.
-- *genre*- Applied to an A tag. A reference to a list representation of all the movies which belong to the genre.
-- *director*- Applied to an A tag. A reference to a list representation of all the movies which are directed by the director.
-- *country*- Applied to an A tag. A reference to a list representation of all the movies which come from the country.
-- *language*- Applied to an A tag. A reference to a list representation of all the movies which use the language.
-- *movie*- Applied to an A tag. A reference to a movie representation.
-- *movie*- Applied to an A tag. A reference to a movie representation.
-- *movie*- Applied to an A tag. A reference to a movie representation.
-- *movie*- Applied to an A tag. A reference to a movie representation.
-- - *movie*- Applied to an A tag. A reference to a movie representation.
+- *movie*- Applied to an A tag. A reference to the movie representation.
+- *all-movie*- Applied to an A tag. A reference to the starting URI for the application.
+- *all-actors*- Applied to an A tag. A reference to the list of actors.
+- *all-genres*- Applied to an A tag. A reference to the list of genres.
+- *all-directors*- Applied to an A tag. A reference to the list of directors.
+- *all-countries*- Applied to an A tag. A reference to the list of countries.
+- *all-language*- Applied to an A tag. A reference to the list of languages.
+- *actor-movies*- Applied to an A tag. A reference to the list of movies which are acted by a specific actor.
+- *genre-movies*- Applied to an A tag. A reference to the list of movies which belong to a specific genre. 
+- *director-movies*- Applied to an A tag. A reference to the list of movies which are directed by a specific director. 
+- *country-movies*- Applied to an A tag. A reference to the list of movies which come from a specific country. 
+- *language-movies*- Applied to an A tag. A reference to the list of movies which use a specific language. 
+- *movie-video*- Applied to an A tag. A reference to the movie`s video.
+- *movie-add*- Applied to an A tag. A reference to the movie-add FORM.
+- *movie-update*- Applied to an A tag. A reference to the movie-update FORM.
+- *movie-search*- Applied to an A tag. A reference to the movie-search FORM.
