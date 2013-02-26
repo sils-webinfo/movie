@@ -8,7 +8,7 @@
 - The list of countries
 - The list of languages
 - A single movie
-- The list of possible queries
+- A list of movies that match some search criteria.
 
 ##ID attribute values##
 - *movies*- Applied to a DIV tag. The list of movies in this representation.
