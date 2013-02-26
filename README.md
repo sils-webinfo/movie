@@ -58,3 +58,8 @@
 - *director*- Applied to an A tag. A reference to a list representation of all the movies which are directed by the director.
 - *country*- Applied to an A tag. A reference to a list representation of all the movies which come from the country.
 - *language*- Applied to an A tag. A reference to a list representation of all the movies which use the language.
+- *movie*- Applied to an A tag. A reference to a movie representation.
+- *movie*- Applied to an A tag. A reference to a movie representation.
+- *movie*- Applied to an A tag. A reference to a movie representation.
+- *movie*- Applied to an A tag. A reference to a movie representation.
+- - *movie*- Applied to an A tag. A reference to a movie representation.
