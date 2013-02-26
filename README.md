@@ -20,11 +20,11 @@
 
 ##Class attribute values##
 
-- *actor-movies*- Applied to a DIV tag. A list of moives which are acted by a specific actor.
-- *genre-movies*- Applied to a DIV tag. A list of moives which belong to a specifc genre.
-- *diector-movies*- Applied to a DIV tag. A list of moives which are directed by a specific director.
-- *country-movies*- Applied to a DIV tag. A list of moives which come from a specific country.
-- *language-movies*- Applied to a DIV tag. A list of moives which use a specific language.
+- *actor-movies*- Applied to a UL tag. A list of moives which are acted by a specific actor.
+- *genre-movies*- Applied to a UL tag. A list of moives which belong to a specifc genre.
+- *diector-movies*- Applied to a UL tag. A list of moives which are directed by a specific director.
+- *country-movies*- Applied to a UL tag. A list of moives which come from a specific country.
+- *language-movies*- Applied to a UL tag. A list of moives which use a specific language.
 
 
 ##Name attribute values##
