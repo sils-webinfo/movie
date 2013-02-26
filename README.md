@@ -77,4 +77,4 @@
 - *movie-search*- Applied to an A tag. A reference to the movie-search FORM.
 
 ##NOTE##
-- In this repository, it shows that there are two contributors editing files. Actually, both are me because I forgot the password of the first account so that I registered a new one, but I don`t know why the old one showed up as a contributor in this repository. 
+- In this repository, it shows that there are two contributors editing files (fanl and xyq178049). Actually, both are me because I forgot the password of the first account (xyq178049) so that I registered a new one (fanl), but I don`t know why the old one showed up as a contributor in this repository. 
