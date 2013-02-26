@@ -20,11 +20,31 @@
 
 ##Class attribute values##
 
+- *all*- Applied to a UL tag. When this element is a descendant of DIV.id="movies" it may have one or more LI.class="movie" descendant elements. When this element is a descendant of DIV.id="actors" it may have one or more LI.class="actor" descendant elements. When this element is a descendant of DIV.id="genres" it may have one or more LI.class="genre" descendant elements. When this element is a descendant of DIV.id="directors" it may have one or more LI.class="movie" descendant elements. When this element is a descendant of DIV.id="countris" it may have one or more LI.class="country" descendant elements. When this element is a descendant of DIV.id="languages" it may have one or more LI.class="language" descendant elements.
+- *movie*- Applied to a LI tag. This gives the outbound link to link a specific movie.
+- *actor*- Applied to a LI tag. This gives the outbound link to link a list of movies which are acted by a specific actor.
+- *genre*- Applied to a LI tag. This gives the outbound link to link a list of movies which belongs to a specific genre.
+- *director*- Applied to a LI tag. This gives the outbound link to link a list of movies which directed by a specific directors.
+- *country*- Applied to a LI tag. This gives the outbound link to link a list of movies which come from a specific country.
+- *language*- Applied to a LI tag. This gives the outbound link to link a list of movies which use a specific language.
 - *actor-movies*- Applied to a UL tag. A list of moives which are acted by a specific actor.
 - *genre-movies*- Applied to a UL tag. A list of moives which belong to a specifc genre.
 - *diector-movies*- Applied to a UL tag. A list of moives which are directed by a specific director.
 - *country-movies*- Applied to a UL tag. A list of moives which come from a specific country.
 - *language-movies*- Applied to a UL tag. A list of moives which use a specific language.
+- *single-movie*- Applied to a UL tag. A representation of a single message. This element is a descendant of DIV.id="movies". 
+- *movie-content*Applied to a LI tag. This element is a descendant of UL.class="single-movie". It contains descendant elements like SPAN.class="movie-name" which give some descriptions.  
+- *movie-video*- Applied to a FORM tag. A representation of a movie`s video.
+- *movie-name*- Applied to a SPAN tag. This gives the name of a movie.
+- *movie-actors*- Applied to a SPAN tag. This gives the actors of the movie.
+- *movie-genres*- Applied to a SPAN tag. This gives the genres of the movie.
+- *movie-directors*- Applied to a SPAN tag. This gives the directors of the movie.
+- *movie-countries*- Applied to a SPAN tag. This gives the countries of the movie.
+- *movie-languages*- Applied to a SPAN tag. This gives the languages of the movie.
+- *movie-add*- Applied to a FORM tag. A non-idempotent link to create a new movie.
+- *movie-update*- Applied to a FORM tag. A non-idempotent link to update an existing movie. 
+- *movie-search*- Applied to a FORM tag. A templated query link to search movies that match some search criteria.
+
 
 
 ##Name attribute values##
