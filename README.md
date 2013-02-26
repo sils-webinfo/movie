@@ -46,9 +46,15 @@
 - *movie-update*- Applied to a FORM tag. A non-idempotent link to update an existing movie. 
 - *movie-search*- Applied to a FORM tag. A templated query link to search movies that match some search criteria.
 
-
-
 ##Name attribute values##
+
+- *movie-name*- Applied to an INPUT element. The name of the movie.
+- *movie-actors*- Applied to an INPUT element. The actors of the movie.
+- *movie-genres*- Applied to an INPUT element. The genres of the movie.
+- *movie-directors*- Applied to an INPUT element. The directors of the movie.
+- *movie-countries*- Applied to an INPUT element. The countries of the movie.
+- *movie-language*- Applied to an INPUT element. The languages of the movie.
+- *search*- Applied to an INPUT element. The search value to use when searching movies.
 
 ##Rel attribute values##
 
