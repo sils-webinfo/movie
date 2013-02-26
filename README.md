@@ -1,6 +1,6 @@
-movie
-=====
-#movie resources#
+#movie#
+
+##movie resources##
 - The list of movies ordered alphabetically by their names
 - The list of actors appeared in the movies
 - The list of genres
