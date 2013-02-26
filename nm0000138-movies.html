@@ -1,0 +1,21 @@
+<!--representing a list of movies which are acted by a specific actor (Leonardo DiCaprio)-->
+<div id="movies">
+<ul class="actor-movies">
+<li>
+<a rel="movie" href="www.example.com/tt1375666.html" title="tt1375666">Inception</a>
+</li>
+</ul>
+...
+<ul class="actor-movies">
+<li>
+<a rel="movie" href="www.example.com/tt0120338.html" title="tt0120338">Titanic</a>
+</li>
+</ul>
+</div>
+
+
+<!--state transfer for searching movies -->
+<form method="GET" action="/find?q={query}" class="movie-search">
+<input type="text" name="search" value=""/>
+<input type="submit"/>
+</form>
