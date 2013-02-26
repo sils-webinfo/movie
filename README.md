@@ -11,3 +11,6 @@
 - The list of possible queries
 
 ##ID attribute values##
+##Class attribute values##
+##Name attribute values##
+##Rel attribute values##
