@@ -29,3 +29,10 @@
 
 ##Name attribute values##
 ##Rel attribute values##
+
+- *movie*- Applied to an A tag. A reference to a movie representation.
+- *actor*- Applied to an A tag. A reference to a list representation of all the movies which are acted by the actor.
+- *genre*- Applied to an A tag. A reference to a list representation of all the movies which belong to the genre.
+- *director*- Applied to an A tag. A reference to a list representation of all the movies which are directed by the director.
+- *country*- Applied to an A tag. A reference to a list representation of all the movies which come from the country.
+- *language*- Applied to an A tag. A reference to a list representation of all the movies which use the language.
