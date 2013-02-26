@@ -74,3 +74,6 @@
 - *movie-add*- Applied to an A tag. A reference to the movie-add FORM.
 - *movie-update*- Applied to an A tag. A reference to the movie-update FORM.
 - *movie-search*- Applied to an A tag. A reference to the movie-search FORM.
+
+##NOTE##
+- In this repository, it shows that there are two contributors editing files. Actually, both are me because I forgot the first account`s password so that I registered a new one. 
